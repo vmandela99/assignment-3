@@ -1,0 +1,18 @@
+---
+title: "Assignment session 3"
+author: "Victor Mandela"
+date: "January 13, 2020"
+output: html_document
+---
+
+## Exercise
+
+1. load the assignment session 3 data set from github
+
+2. Write a write a report of how many countries are there in the dataset and plot a graph
+
+3. Which headquaters has alot of people?
+
+4. What percentage of the first founders are female and their venture area is sub-sahara?
+
+5. What is the maximum revenue since found of water companies in Rwanda from the data?... plot a graph if possible
